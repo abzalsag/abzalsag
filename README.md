@@ -7,7 +7,17 @@
 
 Разрабатываю backend-приложения, работаю с базами данных и проектирую REST API.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abzalsag)
+<p>
+  <a href="https://github.com/abzalsag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abzal-sagyndyk-7654293a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/wezhsiw">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -15,7 +25,6 @@
 
 ## 👨‍💻 Обо мне
 
-- 🎓 Студент IITU (МУИТ).
 - 💻 Backend Developer, основной язык программирования — Go.
 - 🏗️ Интересуюсь Software Architecture и System Design.
 - 🚀 Разрабатываю pet-проекты и участвую в хакатонах.
@@ -37,7 +46,7 @@
 ![sqlc](https://img.shields.io/badge/sqlc-000000?style=for-the-badge)
 ![pgx](https://img.shields.io/badge/pgx-4169E1?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Golang%20Migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=for-the-badge)
+![Golang Migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=for-the-badge)
 
 ### Logging
 
@@ -62,23 +71,15 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade" width="100%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade" width="49%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=5)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=5" width="49%" />
 
 </div>
-
----
-
-## 📫 Контакты
-
-- GitHub: [@abzalsag](https://github.com/abzalsag)
 
 ---
 
@@ -86,6 +87,6 @@
 
 **Consistency is the key to growth.**
 
-Спасибо за посещение моего профиля! ⭐
+Thanks for visiting my profile! ⭐
 
 </div>
