@@ -48,10 +48,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Golang Migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=for-the-badge)
 
-### Logging
-
-![Uber Zap](https://img.shields.io/badge/Uber--Zap-000000?style=for-the-badge)
-
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,23 +63,25 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade" width="85%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade" width="49%" />
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade" width="42%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=5" width="42%" />
 
 </div>
 
----
-
-<div align="center">
 
 **Consistency is the key to growth.**
 
