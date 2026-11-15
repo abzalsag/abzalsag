@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**abzalsag/abzalsag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Statistics
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=0)
+
+</div>
