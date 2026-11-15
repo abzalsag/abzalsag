@@ -5,7 +5,7 @@
 
 ### Backend Developer
 
-Разрабатываю backend-приложения на Go, работаю с базами данных и проектирую REST API.
+Разрабатываю backend-приложения, работаю с базами данных и проектирую REST API.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abzalsag)
 
@@ -17,93 +17,44 @@
 
 - 🎓 Студент IITU (МУИТ).
 - 💻 Backend Developer, основной язык программирования — Go.
-- 🏗️ Интересуюсь проектированием архитектуры и масштабируемых backend-систем.
+- 🏗️ Интересуюсь Software Architecture и System Design.
 - 🚀 Разрабатываю pet-проекты и участвую в хакатонах.
-- 📚 Постоянно изучаю новые инструменты и улучшаю инженерные навыки.
+- 📚 Постоянно изучаю новые технологии и улучшаю инженерные навыки.
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Основной технологический стек
 
-### Backend
+### Backend Development
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Databases
+### Database & Data Access
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![sqlc](https://img.shields.io/badge/sqlc-000000?style=for-the-badge)
+![pgx](https://img.shields.io/badge/pgx-4169E1?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Golang%20Migrate](https://img.shields.io/badge/Golang_Migrate-00ADD8?style=for-the-badge)
 
-### Tools & Technologies
+### Logging
+
+![Uber Zap](https://img.shields.io/badge/Uber--Zap-000000?style=for-the-badge)
+
+### DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Go Ecosystem
-![pgx](https://img.shields.io/badge/pgx-4169E1?style=for-the-badge)
-![sqlc](https://img.shields.io/badge/sqlc-000000?style=for-the-badge)
-![Goose](https://img.shields.io/badge/Goose-00ADD8?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-## 🚀 Мои проекты
+## 📚 Also Familiar With
 
-### 1. CloudBox
-**File Storage Backend**
-
-Backend-система для хранения и управления файлами.
-
-- Go
-- PostgreSQL
-- pgx
-- sqlc
-- Docker
-
-[Repository](https://github.com/abzalsag/CloudBox)
-
-### 2. PayCore
-**Banking Wallet System**
-
-Pet-проект банковской системы с функциональностью электронного кошелька.
-
-- Go
-- PostgreSQL
-- Redis
-- REST API
-- Docker
-
-[Repository](https://github.com/abzalsag/PayCore)
-
-### 3. Market Analytics Platform
-**E-commerce Analytics**
-
-Платформа для анализа данных и мониторинга ecommerce-рынка.
-
-- Go
-- PostgreSQL
-- pgx
-- sqlc
-- Redis
-- Docker
-
-[Repository](https://github.com/abzalsag)
-
-### 4. Medical Appointment Application
-**Healthcare Backend**
-
-Backend-приложение для записи пациентов на приём к врачам.
-
-- Go
-- PostgreSQL
-- sqlc
-- JWT
-- Redis
-- WebSocket
-- REST API
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -111,17 +62,21 @@ Backend-приложение для записи пациентов на при�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abzalsag&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abzalsag&theme=holi&animation=fade)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abzalsag&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abzalsag&theme=holi&animation=fade)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abzalsag&theme=github-dark-blue&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abzalsag&theme=holi&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abzalsag&theme=holi&animation=fade&utcOffset=5)
 
 </div>
 
 ---
 
-## 📫 Связаться со мной
+## 📫 Контакты
 
 - GitHub: [@abzalsag](https://github.com/abzalsag)
 
@@ -129,7 +84,7 @@ Backend-приложение для записи пациентов на при�
 
 <div align="center">
 
-### «Consistency is the key to growth.»
+**Consistency is the key to growth.**
 
 Спасибо за посещение моего профиля! ⭐
 
